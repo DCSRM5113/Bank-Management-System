@@ -210,4 +210,5 @@ void Cash_withdrawl()
          acc_no, account[acc_no-1].available_balance);
          break; 
    }acc_no++;
+   return 0;
 }
